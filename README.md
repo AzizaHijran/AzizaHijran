@@ -1,27 +1,12 @@
 <h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
 
-<!--
-**AzizaHijran/AzizaHijran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--  Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![Gambar](img/DecomposedMaw_%20Image.gif)
 
-<h3 data-importer="text" align="left">About Me</h1>
+<h3 data-importer="text" align="left">About Me</h3>
 
 
- 🔭 I’m studying at Tadulako University 
-  ⚡ I'm Part of [**Robotech Tadulako**](https://www.instagram.com/robotech_tadulako/)
+  🔭 I’m studying at Tadulako University <br>
+  ⚡ I'm Part of [**Robotech Tadulako**](https://www.instagram.com/robotech_tadulako/) <br>
   😄 Interest in Robotics
 
  ### I learn 
@@ -42,16 +27,25 @@ Here are some ideas to get you started:
 </div>
  
  #### Other
-
-
- <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&          logoColor=white" />
+ <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" />
 
-### My Contribution
+### Play a Game
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzizaHijran/AzizaHijran/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AzizaHijran/AzizaHijran/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AzizaHijran/AzizaHijran/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
+<!--
+**AzizaHijran/AzizaHijran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+-  Pronouns: ...
+- ⚡ Fun fact: ...
+-->
