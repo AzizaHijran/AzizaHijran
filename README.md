@@ -1,6 +1,6 @@
 <h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
 
-![Gambar](img/DecomposedMaw_Image.gif)
+![Gambar](img/gambar.gif)
 
 <h3 data-importer="text" align="left">About Me</h3>
 
