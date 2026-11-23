@@ -4,7 +4,11 @@
 
 <h2 data-importer="text" align="left">About Me</h2>
 
+<<<<<<< HEAD
  <img align="right" alt="Coding GIF" width="210" src="img/frierenGerak.gif" />
+=======
+<img align="right" alt="Coding GIF" width="230" src="i[mg/frierenGerak.gif](https://github.com/user-attachments/assets/ec3c8e1f-94dd-47e3-8a63-278e68f89cdf)" />
+>>>>>>> 96114b40449f7c842fbf87037d1686e7714bca02
 
   #### 🔭 I'm Informatics Student <br>
   #### 🔭 I’m studying at Tadulako University <br>
