@@ -5,9 +5,9 @@
 <h2 data-importer="text" align="left">About Me</h2>
 
 
-  🔭 I’m studying at Tadulako University <br>
-  ⚡ I'm Part of [**Robotech Tadulako**](https://www.instagram.com/robotech_tadulako/) <br>
-  😄 Interest in Robotics
+  #### 🔭 I’m studying at Tadulako University <br>
+  #### ⚡ I'm Part of [**Robotech Tadulako**](https://www.instagram.com/robotech_tadulako/) <br>
+  #### 😄 Interest in Robotics
 
  ## I learn 
 <div data-importer="techs" align="left">
