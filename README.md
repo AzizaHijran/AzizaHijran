@@ -2,14 +2,14 @@
 
 ![Gambar](img/gambar.gif)
 
-<h3 data-importer="text" align="left">About Me</h3>
+<h2 data-importer="text" align="left">About Me</h2>
 
 
   🔭 I’m studying at Tadulako University <br>
   ⚡ I'm Part of [**Robotech Tadulako**](https://www.instagram.com/robotech_tadulako/) <br>
   😄 Interest in Robotics
 
- ### I learn 
+ ## I learn 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
  
- #### Other
+ ### Other
  <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" />
 
